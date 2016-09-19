@@ -1,0 +1,4 @@
+---
+applications:
+- name: php-fuel
+  buildpack: php_buildpack
